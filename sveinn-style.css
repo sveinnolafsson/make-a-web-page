@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Have used Andy's css file with minor adjustements */
+
+body {
+	padding: 20px 10px;
+	font-family: Verdana;
+	max-width: 2000px;
+	margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	
+
+h1 {
+	text-align: center;
+	color: #294860;
+}
+
+p {
+	margin: 10px 0;
+}
+
+
+li {
+	font-size: 1em; /* Keep this for use later as 1em will not change the size */
+	font-style: italic;
+	line-height: 22px; 
+}
+
+
+h2 {
+	margin: 10px;
+}
